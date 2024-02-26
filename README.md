@@ -13,5 +13,5 @@ Download and install Expo app from the google play in your mobile phone.
 
 Steps to run the app: -
 
-Unzip the project folder and enter the folder foodies-app and open the folder with command prompt and type npm start command to start the project, and scan the QR code at the command prompt with expo app installed in your mobile. 
+Unzip the project folder and enter the folder foodies-app and open the folder with command prompt and type npx expo start command to start the project, and npx expo install --fix  and then scan the QR code at the command prompt with expo app installed in your mobile. 
 
