@@ -4,7 +4,7 @@ Perquisites: -
 
 Download and install Microsoft Visual Code from https://code.visualstudio.com/download or download your preferred code editor.
 
-Open an account at Supabase.com and create a database and table as shown in the video.
+Open an account at Supabase.com and create a database and table.
 
 Download and install WinRAR form https://www.win-rar.com/start.html?&L=0
 
